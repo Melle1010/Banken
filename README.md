@@ -7,7 +7,7 @@ Deltagare: Gabriella Iofe, Melvin Danielsson, Vivianne Bengtsson, Coday Awahmed,
 
 Sprintmål: UML + första POCO-klasser + README med teamets arbetsprocess.
 
-Vad vi gjorde: Började med att skapa en UML-skiss, sedan en repo, bjudot in ala deltagare och skapat branches. 
+Vad vi gjorde: Började med att skapa en UML-skiss, sedan en repo, bjudit in alla deltagare och skapat branches. 
 
-Problem/hinder: Många nya, Viktoria har sin absolut första dag. Otydliga instruktioner för just v.38 som vi förta 1,5h försökt att tyda med hjälp av AI. 
+Problem/hinder: Många nya, Viktoria har sin absolut första dag. Otydliga instruktioner för just v.38 som vi försökt i 1,5h försökt att tyda med hjälp av AI. 
 
